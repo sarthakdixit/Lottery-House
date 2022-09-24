@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Set Config files
+go to : src/utilities/Config.js
+and set backend baseUrl, and smart contract id
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
